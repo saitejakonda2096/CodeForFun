@@ -1,4 +1,4 @@
-//Programmer: Saiteja
+//Programmer: Saiteja Konda
 //CTCI page no:90
 //Problem:1.1
 //Date: 2/10/19
