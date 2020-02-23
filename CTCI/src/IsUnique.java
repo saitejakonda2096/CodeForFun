@@ -2,7 +2,7 @@
 //CTCI page no:90
 //Problem:1.1
 //Date: 2/10/19
-//Purpose: To check whether the given string has unique characters or not
+//Purpose: To check whether the given string has unique characters or not.
 import java.util.*;
 public class IsUnique
 {
